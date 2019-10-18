@@ -1,5 +1,5 @@
 # Opportunities
-A github repository which contains list of opportunities for CS students
+A github repository which contains list of opportunities for CS students.
 Please follow this pattern while addding new items in the list :point_down:
 
 
